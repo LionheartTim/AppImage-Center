@@ -39,7 +39,7 @@ If you prefer to compile the application locally using `flatpak-builder`, follow
 
 ```bash
 # 1. Navigate to the project directory
-cd "/home/Tim/Desktop/Appimage Center/"
+cd "/home/USER/Desktop/Appimage Center/"
 
 # 2. Build and install the application locally via the manifest
 flatpak-builder --user --install --force-clean build org.lionhearttim.AppimageCenter.json
